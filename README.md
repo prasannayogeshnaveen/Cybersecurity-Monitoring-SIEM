@@ -1,6 +1,6 @@
 # Cybersecurity-Monitoring-SIEM# Cybersecurity Monitoring & Incident Response 🚀
 
-## Wipro | Digital Nasional Berhad (DNB) | Chennai (Remote)
+## Wipro | Helmerich & Payne | Chennai (Remote)
 🗓️ May 2023 - Present
 
 ### 🔹 Project Overview
